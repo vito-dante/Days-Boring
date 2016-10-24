@@ -1,0 +1,93 @@
+﻿Installing assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions (updated to 1.2.2.175)\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions (updated to 1.2.2.175)\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions (updated to 1.2.2.175)\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Uninstalling assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Removing EventLog source Ds3Service.
+Service Ds3Service is being removed from the system...
+Service Ds3Service was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Removing EventLog source Ds3Service.
+Warning: The source Ds3Service is not registered on the local machine.
+Service Ds3Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Removing EventLog source Ds3Service.
+Warning: The source Ds3Service is not registered on the local machine.
+Service Ds3Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Removing EventLog source Ds3Service.
+Warning: The source Ds3Service is not registered on the local machine.
+Service Ds3Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Service Ds3Service has been successfully installed.
+Creating EventLog source Ds3Service in log Application...
+See the contents of the log file for the C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe assembly's progress.
+The file is located at C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog.
+Committing assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Installing assembly 'C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Vergil\Downloads\Compressed\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Installing assembly 'C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Installing assembly 'C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Installing assembly 'C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
+Installing assembly 'C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\vergil\Documents\Scarlet.Crush Productions\ScpServer\bin\ScpService.InstallLog
+Installing service Ds3Service...
+Creating EventLog source Ds3Service in log Application...
