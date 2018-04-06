@@ -29,5 +29,5 @@ model = app.models.create(model_id="pets", concepts=["cute dog"])
 model = model.train()
 
 # predict with samples
-print model.predict_by_url(url="https://samples.clarifai.com/dog3.jpeg")
-print model.predict_by_url(url="https://samples.clarifai.com/cat3.jpeg")
+print (model.predict_by_url(url="https://samples.clarifai.com/dog3.jpeg"))
+print (model.predict_by_url(url="https://samples.clarifai.com/cat3.jpeg"))
